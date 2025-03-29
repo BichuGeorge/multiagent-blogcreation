@@ -1,0 +1,7 @@
+crewai
+crewai[tools]
+langchain_community
+python-dotenv
+llama-cpp-python
+langchain_groq'
+mistralai==1.5.0
